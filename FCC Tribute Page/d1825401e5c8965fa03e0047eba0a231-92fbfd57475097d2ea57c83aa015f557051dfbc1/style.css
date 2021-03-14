@@ -1,0 +1,47 @@
+#main {
+  background-color: grey;
+  padding-top: 0.5em;
+  padding-left: 2.5em;
+  padding-right: 2.5em;
+}
+
+#title {
+  font-size: 1.2em;
+  text-align:center;
+  font-weight:bold;
+  font-family: 'Roboto', sans-serif;
+}
+
+#sub-title {
+  font-size: 1.2em;
+  text-align:center;
+  font-family: 'Roboto', sans-serif;
+}
+
+#img-div {
+  background-color:white;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+#image {
+  display:block;
+  margin:auto;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  text-align:center;
+  font-family: 'Roboto', sans-serif;
+}
+
+#tribute-info {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  list-style-position: inside
+}
+
+ul li {
+  padding-top: 2em;
+}
